@@ -1,4 +1,4 @@
-# instgram_project
+# Quiz_App_project
 
 A new Flutter project.
 
